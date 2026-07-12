@@ -77,14 +77,6 @@ Each step removes one possible cause before moving to the next.
 
 ---
 
-# 🖼️ Troubleshooting Diagram
-
-> The following diagram summarizes the troubleshooting flow.
-
-![OSI Troubleshooting Flow](images/osi-troubleshooting.png)
-
----
-
 # 🧩 OSI Layers
 
 | Layer      | Focus        | DevOps Question                     |
